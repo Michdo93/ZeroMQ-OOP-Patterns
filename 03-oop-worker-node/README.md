@@ -1,3 +1,3 @@
 # 03-oop-worker-node
 
-See the repository root [README.md](../README.md), section **03-oop-worker-node**, for the complete install, configuration, run/test, expected result, customization, and troubleshooting instructions for this example.
+See the repository root [README.md](../README.md) for usage and explanation.
